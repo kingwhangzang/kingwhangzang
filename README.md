@@ -42,7 +42,7 @@
 
 | 기간 | 프로젝트 | 소개 | 바로가기 |
 |---|---|---|---|
-| 2025.04.02 - 2025.08.01 | **YouTIL** | 깃허브 커밋 기반 TIL 자동 생성과 면접 질문 생성 웹 서비스 | 🔗 [Repo](https://github.com/kingwhangzang/1-team-YouTIL-be) |
+| 2025.04.02 - 2025.08.01 | **YouTIL** | 깃허브 커밋 기반 TIL 자동 생성과 면접 질문 생성 웹 서비스 | 🔗 [Repo](https://github.com/kingwhangzang/1-team-YouTIL-be) 🔗 [WIKI](https://github.com/100-hours-a-week/1-team-YouTIL-wiki/wiki) |
 | 2025.02.26 - 2025.09.18 | **제면소** | 음성 기반 면접 준비 웹 서비스 | 🔗 [Repo](https://github.com/kingwhangzang/Jemyeonso-BE) |
 | 2024.03 ~ 2024.10 | **ConCon** | 기프티콘 통합 관리 애플리케이션 | 🔗 [Repo](https://github.com/ConconDev) |
 
