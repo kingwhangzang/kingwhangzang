@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6d0d0&height=180&text=kingwhangzang's%20GITHUB&animation=twinkling&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6d0d0&height=180&text=kingwhangzang%20GITHUB&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 
 ---
@@ -22,9 +22,12 @@
 
 ## 🏅 Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingwhangzang&count_private=true&include_all_commits=true&bg_color=180,00000000,&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingwhangzang&layout=compact&include_forks=true&count_private=true&size_weight=0.2&count_weight=0.8&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+<div >
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingwhangzang&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingwhangzang&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kingwhangzang&theme=default)
+
 </div>
 
 
